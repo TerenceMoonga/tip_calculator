@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tipcalculator</string>
+    <string name="tipbutton">PRESS</string>
+    <string name="tippercent">"Tip Percentage "</string>
+    <string name="narenceapps">NarenceApps</string>
+</resources>
